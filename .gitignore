@@ -1,0 +1,17 @@
+﻿.venv311/
+__pycache__/
+.mplconfig/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+
+# Editor
+.vscode/*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
